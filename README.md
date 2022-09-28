@@ -38,6 +38,7 @@ c=Y_mean-m*X_mean
 print(m,c)
 Y_pred=m*X+c
 print(Y_pred)
+```
 
 ## Output:
 ![Screenshot from 2022-09-28 11-37-59](https://user-images.githubusercontent.com/113497680/192700851-28914f42-a997-4eed-a224-87dc369c11ea.png)
