@@ -42,7 +42,7 @@ print(Y_pred)
 
 ## Output:
 ![Screenshot from 2022-09-28 11-37-59](https://user-images.githubusercontent.com/113497680/192700851-28914f42-a997-4eed-a224-87dc369c11ea.png)
-file:///home/sec/Pictures/Screenshots/Screenshot%20from%202022-10-21%2008-55-54.png![image](https://user-images.githubusercontent.com/113497680/197104859-0b0354e0-aafb-42f0-8c09-12c7e2267054.png)
+![image](https://user-images.githubusercontent.com/113497680/197104859-0b0354e0-aafb-42f0-8c09-12c7e2267054.png)
 
 
 ## Result
